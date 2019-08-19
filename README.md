@@ -1,8 +1,9 @@
-# Belly Button Biodiversity
-[Heroku App](https://nameless-badlands-11102.herokuapp.com// "Belly Button Biodiversity")
-
 ## Summary
-An interactive dashboard of belly button micro-organisms developed from a dataset of volunteer provided samples. Data is served from a Python Flask application and dynamically gathered and presented with javascript and Plotly.
+We built an n interactive dashboard to explore the Belly Button Bio Diversity Dataset. Python/Flask was used to run app. Javascript and plotly were leverage for vizualization. Application was then deployed to Heroku.
+
+# Belly Button Biodiversity
+[Heroku App Link ](https://nameless-badlands-11102.herokuapp.com// "Belly Button Biodiversity")
+
 
 ## Screenshot
 ![sample screenshot](https://github.com/rchounoune/Plotly-JS/blob/master/img/img1.png "Sample Screenshot")
